@@ -13,4 +13,9 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
 
+x = int(input("Напиши число 1 \n"))
+y = int(input("Напиши число 2 \n"))
+print(x+y)
+
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
